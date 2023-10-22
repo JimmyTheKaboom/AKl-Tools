@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "AKL Tools",
+    "description": "Digital Tools for innovative engineering",
+    "author": "Adam Klosinski",
+    "author_profile": "https://github.com/JimmyTheKaboom/AKl-Tools",
+    "url": "https://github.com/JimmyTheKaboom/AKl-Tools.git",
+    "website": "https://ibim.pl",
+    "image": "",
+    "dependencies": []
+}
